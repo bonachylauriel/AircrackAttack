@@ -36,13 +36,13 @@ It creates denial of service (DoS) condition against any wifi router by continou
 ### Installing
 + **For Linux :**
 ```
-~ ❯❯❯ git clone https://github.com/3xploitGuy/lazyaircrack.git
+~ ❯❯❯ git clone https://github.com/bonachylauriel/AircrackAttack.git
 
 ~ ❯❯❯ cd lazyaircrack
 
-~/lazyaircrack ❯❯❯ chmod +x lazyaircrack.sh
+~/lazyaircrack ❯❯❯ chmod +x Aircrack.sh
 
-~/lazyaircrack ❯❯❯ ./lazyaircrack.sh
+~/lazyaircrack ❯❯❯ ./Aircrack.sh
 ```
 
 ## Basics
