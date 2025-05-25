@@ -38,7 +38,7 @@ It creates denial of service (DoS) condition against any wifi router by continou
 ```
 ~ ❯❯❯ git clone https://github.com/bonachylauriel/AircrackAttack.git
 
-~ ❯❯❯ cd lazyaircrack
+~ ❯❯❯ cd Aircrack
 
 ~/lazyaircrack ❯❯❯ chmod +x Aircrack.sh
 
